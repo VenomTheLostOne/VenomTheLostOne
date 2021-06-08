@@ -1,39 +1,63 @@
-<h1 align="center">Hi 👋, I'm Venom</h1>
-<h3 align="center">A passionate developer and ethical hacker from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomthelostone&label=Profile%20views&color=0e75b6&style=flat" alt="venomthelostone" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomthelostone" alt="venomthelostone" /></a> </p>
-
-- 🔭 I’m currently working on [Anweshana Private Limited's Website](https://www.anweshanapvtltd.com/)
-
-- 🌱 I’m currently learning **Mobile app development**
-
-- 👯 I’m looking to collaborate on [Trust Co : We Trust The Best](trustco.ga)
-
-- 👨‍💻 All of my projects are available at [github.com/VenomTheLostOne](github.com/VenomTheLostOne)
-
-- 📝 I regularly write articles on [github.com/VenomTheLostOne](github.com/VenomTheLostOne)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **Discord : ヴェノム#0001**
-
-- 📄 Know about my experiences [github.com/VenomTheLostOne](github.com/VenomTheLostOne)
-
-- ⚡ Fun fact **If You Think You Are Bad Then I'm Not Your Dad**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/x_venøm_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="x_venøm_x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/x_venøm_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="x_venøm_x" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/VenomTheLostOne/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Hey+I'm+Venom.;Welcome+to+my+profile.;Enjoy."></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/VenomTheLostOne">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/VenomTheLostOne?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/VenomTheLostOne/">
+    <img alt="views" title="GitHub stars" src="https://img.shields.io/github/stars/VenomTheLostOne?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Stars"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomthelostone&show_icons=true&locale=en&layout=compact" alt="venomthelostone" /></p>
+<p align="center">
+  <img alt="python" title="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=darkgreen" />
+  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=CSS3&logoColor=darkgreen" />
+  <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-FFD43B?style=for-the-badge&logo=JAVASCRIPT&logoColor=darkgreen" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomthelostone&show_icons=true&locale=en" alt="venomthelostone" /></p>
+<div align="center">
+  <h4>
+  <details>
+    <summary>🚀 Frameworks</summary>
+    <br>
+      <p align="center">
+        <img alt="NODE.JS" title="NODE.JS" src="https://img.shields.io/badge/NODE.JS-FFD43B?style=for-the-badge&logo=NODE-DOT-JS&logoColor=darkgreen" />
+        <img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM-FFD43B?style=for-the-badge&logo=NPM&logoColor=darkgreen" />
+        <img alt="jquery" title="jquery" src="https://img.shields.io/badge/jquery-FFD43B?style=for-the-badge&logo=jquery&logoColor=darkgreen" />
+        <img alt="SASS" title="SASS" src="https://img.shields.io/badge/SASS-FFD43B?style=for-the-badge&logo=SASS&logoColor=darkgreen" />
+        <img alt="BOOTSTRAP" title="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-FFD43B?style=for-the-badge&logo=BOOTSTRAP&logoColor=darkgreen" />
+        <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=darkgreen" />
+    </p>
+  </details>
+  </h4>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomthelostone&" alt="venomthelostone" /></p>
+<div align="center">
+  <img alt="logo gif" title="logo" src="https://avatars.githubusercontent.com/u/75211518?v=4">
+  <br>
+  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/725364840163573761.png">
+</div>
+
+<br>
+
+<h2 align="center">
+      <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=VenomTheLostOne&show_icons=tru&theme=gruvbox&hide_border=true">
+      <br/><br/>
+</h2>
+
+<br>
+<br>
+<h2 align="center">
+ A nice 'lil Coding joke for you ;3
+</h2>
+
+<div align="center">
+  <img alt="joke" title="joke" src="https://readme-jokes.vercel.app/api/?theme=gruvbox">
+</div>
+
+ <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=VenomTheLostOne&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
+
+ <p align="center">
+  Readme made by @WalkxCode
+ </p>
