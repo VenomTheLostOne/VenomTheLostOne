@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img alt="logo gif" title="logo" src="https://avatars.githubusercontent.com/u/75211518?v=4">
+ 
   <br>
   <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-4/593440045554466826.png">
 </div>
