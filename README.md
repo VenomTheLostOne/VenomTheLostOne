@@ -29,7 +29,7 @@
 <div align="center">
  
   <br>
-  <img alt="discord" title="discord" src="">
+  #<img alt="discord" title="discord" src="">
 </div>
 
 <br>
