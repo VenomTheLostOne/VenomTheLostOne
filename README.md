@@ -11,9 +11,7 @@
 
 <p align="center">
   <img alt="python" title="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=darkgreen" />
-  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=CSS3&logoColor=darkgreen" />
-  <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-FFD43B?style=for-the-badge&logo=JAVASCRIPT&logoColor=darkgreen" />
+
 </p>
 
 <div align="center">
@@ -22,12 +20,7 @@
     <summary>🚀 Frameworks</summary>
     <br>
       <p align="center">
-        <img alt="NODE.JS" title="NODE.JS" src="https://img.shields.io/badge/NODE.JS-FFD43B?style=for-the-badge&logo=NODE-DOT-JS&logoColor=darkgreen" />
-        <img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM-FFD43B?style=for-the-badge&logo=NPM&logoColor=darkgreen" />
-        <img alt="jquery" title="jquery" src="https://img.shields.io/badge/jquery-FFD43B?style=for-the-badge&logo=jquery&logoColor=darkgreen" />
-        <img alt="SASS" title="SASS" src="https://img.shields.io/badge/SASS-FFD43B?style=for-the-badge&logo=SASS&logoColor=darkgreen" />
-        <img alt="BOOTSTRAP" title="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-FFD43B?style=for-the-badge&logo=BOOTSTRAP&logoColor=darkgreen" />
-        <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=darkgreen" />
+
     </p>
   </details>
   </h4>
@@ -36,7 +29,7 @@
 <div align="center">
  
   <br>
-  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-4/593440045554466826.png">
+  <img alt="discord" title="discord" src="">
 </div>
 
 <br>
@@ -59,5 +52,5 @@
  <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=VenomTheLostOne&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
 
  <p align="center">
-  Readme made by @WalkxCode
+  
  </p>
