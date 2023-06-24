@@ -1,56 +1,67 @@
-<p align="center">
-  <a href="https://github.com/VenomTheLostOne/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Hey+I'm+Venom.;Welcome+to+my+profile.;Enjoy."></a>
-</p>
+![Profile_Banner](https://github.com/VenomTheLostOne/VenomTheLostOne/blob/main/standard%20(3).gif?raw=true)
 
-<p align="center">
-  <a href="https://github.com/VenomTheLostOne">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/VenomTheLostOne?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/VenomTheLostOne/">
-    <img alt="views" title="GitHub stars" src="https://img.shields.io/github/stars/VenomTheLostOne?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Stars"/></a>
-</p>
+---
 
-<p align="center">
-  <img alt="python" title="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<details align="middle">
+<summary>Open profile</summary>
 
-</p>
+<br />
 
-<div align="center">
-  <h4>
-  <details>
-    <summary>🚀 Frameworks</summary>
-    <br>
-      <p align="center">
+[comment]: <> (View Counter)
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=VenomTheLostOne&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
 
-    </p>
-  </details>
-  </h4>
-</div>
+---
 
-<div align="center">
- 
-  <br>
-  #<img alt="discord" title="discord" src="">
-</div>
+<br />
 
-<br>
+[comment]: <> (Links to programming languages)
+<h3 align="center"><b>Languages:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://oracle.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2 align="center">
-      <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=VenomTheLostOne&show_icons=tru&theme=gruvbox&hide_border=true">
-      <br/><br/>
-</h2>
+[comment]: <> (Links to other computer related stuff)
+<h3 align="center"><b>Hobby Projects:</h3>
+<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://neon.kde.org/" target="_blank"> <img src="https://neon.kde.org/content/neon-logo.svg" alt="KDE neon" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
 
-<br>
-<br>
-<h2 align="center">
- A nice 'lil Coding joke for you ;3
-</h2>
+<br />
+<br />
 
-<div align="center">
-  <img alt="joke" title="joke" src="https://readme-jokes.vercel.app/api/?theme=gruvbox">
-</div>
+---
 
- <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=VenomTheLostOne&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
+[comment]: <> (Extend Catistics)
+<details>
 
- <p align="center">
-  
- </p>
+[comment]: <> (Most used languages)
+<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenomTheLostOne&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
+
+[comment]: <> (Github statistics)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+
+[comment]: <> (Commit graph)
+ <p align="center"> <img src="https://streak-stats.demolab.com?user=Daenges&theme=dracula&mode=weekly&fire=EB5454" alt=daenges />
+</details>
+
+
+---
+
+[comment]: <> (Extend trophies)
+<details>
+<summary align="center">:trophy: Trophies :trophy:</summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges" /></a> </p>
+</details>
+
+---
+
+<details>
+<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<br />
+<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+</details>
+
+</details>
+
+---
+
+
+![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
