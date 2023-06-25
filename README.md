@@ -16,11 +16,11 @@
 
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Languages:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://oracle.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="bash" width="40" height="40"/> </a> <a href="https://oracle.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://jetbrains.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="go" width="40" height="40"/> </p>
 
 [comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Hobby Projects:</h3>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://neon.kde.org/" target="_blank"> <img src="https://neon.kde.org/content/neon-logo.svg" alt="KDE neon" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
+<h3 align="center"><b>Other Skills:</h3>
+<p align="center"> <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="ae" width="45" height="45"/> </a> <a href="wordpress.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> </a> <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle cf" width="45" height="45"/> </a> <a href="/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="45" height="45"/> </a> 
 
 <br />
 <br />
@@ -36,10 +36,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenomTheLostOne&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
 
 [comment]: <> (Github statistics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VenomTheLostOne&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
 
 [comment]: <> (Commit graph)
- <p align="center"> <img src="https://streak-stats.demolab.com?user=Daenges&theme=dracula&mode=weekly&fire=EB5454" alt=daenges />
+ <p align="center"> <img src="https://streak-stats.demolab.com?user=VenomTheLostOne&theme=dracula&mode=weekly&fire=EB5454" alt=daenges />
 </details>
 
 
